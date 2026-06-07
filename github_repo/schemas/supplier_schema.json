@@ -1,0 +1,14 @@
+{
+  "SalesKit": "string",
+  "SupplierMatches": [
+    {
+      "CoreMaterialName": "string",
+      "ShortageQuantity": "number",
+      "Suppliers": [
+        { "SupplierName": "string", "Price": "string ($/lb)", "Risk": "Low | Medium | High" }
+      ],
+      "RecommendedSupplier": "string (supplier + justification)"
+    }
+  ],
+  "Summary": "string"
+}

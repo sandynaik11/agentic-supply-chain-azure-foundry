@@ -1,0 +1,11 @@
+{
+  "SalesKit": "string",
+  "BOM": [
+    {
+      "MaterialName": "string (full technical description)",
+      "CoreMaterialName": "string (core alloy/material, e.g. 'Inconel 600')",
+      "PartNo": "string",
+      "QuantityRequired": "number"
+    }
+  ]
+}

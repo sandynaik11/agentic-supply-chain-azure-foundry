@@ -1,0 +1,14 @@
+{
+  "SalesKit": "string",
+  "Shortages": [
+    {
+      "MaterialName": "string",
+      "CoreMaterialName": "string",
+      "QuantityRequired": "number",
+      "QuantityInStock": "number",
+      "Shortage": "number",
+      "Status": "In Stock | Insufficient Stock | Out of Stock"
+    }
+  ],
+  "Summary": "string"
+}
